@@ -1,0 +1,72 @@
+body {
+  font-family:'Times New Roman', Times, serif;
+  background: linear-gradient(to right,#1d1d2c, #0f1c2e);
+  color: white;
+  margin: 0;
+  padding: 20px;
+}
+.hand {
+  width: 130px;
+  height: 130px;
+  display: inline-block;
+  background-size: cover;
+  margin: 30px;
+  background-color: transparent;
+  border-radius: 50%;
+  border: 3px solid #4a4e69;
+}
+.hand-img {
+  width: 70px;
+  height: 70px;
+  background-size: cover;
+  background-color: transparent;
+  display: inline;
+}
+.title {
+  text-align: center;
+  font-size: 3.5em;
+  color: #f8f8f2;
+  margin-bottom: 20px;
+}
+div {
+  text-align: center;
+}
+p {
+  font-size: 1.2em;
+  color: #f8f8f2;
+}
+#res {
+  font-family:'Times New Roman', Times, serif;
+  font-size: 1.5em;
+  text-align: center;
+  width: 180px;
+  height: 50px;
+  border-radius: 50px ;
+  color: #f8f8f2;
+  margin-top: 20px;
+  background-color: #1f2937;
+  border: 2px solid  #4a4e69;
+}
+button:hover ,#res:hover {
+  background-color: #4a4e69;
+  color: #f8f8f2;
+  cursor: pointer;
+}
+#result {
+  font-size: 2.5em;
+  color: #f8f8f2;
+  margin-top: 20px;
+  text-align: center;
+}
+#move {
+  font-size: 1.5em;
+  color: #f8f8f2;
+  text-align: center;
+  margin-top: 20px;
+}
+#score {
+  font-size: 1.5em;
+  color: #f8f8f2;
+  text-align: center;
+  margin-top: 30px;
+}

@@ -3,7 +3,8 @@
 A simple and elegant Rock Paper Scissors game built with HTML, CSS, and JavaScript.
 Un jeu simple et élégant de Pierre Papier Ciseaux réalisé avec HTML, CSS et JavaScript.
 
-![Capture d'écran 2025-06-01 190531](https://github.com/user-attachments/assets/06edc39a-b91c-480d-be2b-c828c64061b2)
+![Capture d'écran 2025-06-02 192414](https://github.com/user-attachments/assets/9a5f7f76-1111-4888-84bb-1f6ca601ae4d)
+
 
 
 ## 🎮 Features | Fonctionnalités,

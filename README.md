@@ -39,10 +39,9 @@ JavaScript (Vanilla),
 ├── index.html
 ├── style.css
 ├── script.js
-├── images/
-│   ├── rock.png
-│   ├── paper.png
-│   └── scissors.png
+├── rock.png
+├── paper.png
+└── scissors.png
 ## Auther | auteur 
-created by  BENDAR noufel
-créé par BENDAR noufel
+Created by  BENDAR noufel
+Créé par BENDAR noufel

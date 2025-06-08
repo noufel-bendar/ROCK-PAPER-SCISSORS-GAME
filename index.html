@@ -9,15 +9,16 @@
 <body>
   <p class=" title"> ROCK PAPER SCISSORS </p>
   <div ">
-  <button onclick="playGame('Rock')" class="hand"><img src="rock-emoji.png"class="hand-img" > </button>
-  <button onclick="playGame('Paper')"class="hand" ><img class="hand-img" src="paper-emoji.png"  ></button>
-  <button onclick="playGame('Scissors')" class="hand"><img src="scissors-emoji.png" class="hand-img" ></button>
+  <button onclick="playGame('Rock')" class="hand"><img src="/images/rock-emoji.png"class="hand-img" > </button>
+  <button onclick="playGame('Paper')"class="hand" ><img class="hand-img" src="/images/paper-emoji.png"  ></button>
+  <button onclick="playGame('Scissors')" class="hand"><img src="images/scissors-emoji.png" class="hand-img" ></button>
 
   <p id="result" class="js-result"></p>
   <p id="moves" class="js-moves">
     </p>
   <p id="score" class="js-score"></p>
-  <button onclick="resetScore()" id="res">Reset Score</button>
+  <button onclick="resetScore()" class="res">Reset Score</button> 
+  <button class="res" id="auto" onclick="autoPlay()" > auto play</button>
  </div>
 </body>
 </html>

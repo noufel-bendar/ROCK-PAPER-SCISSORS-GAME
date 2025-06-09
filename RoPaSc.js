@@ -73,3 +73,16 @@
       isAuto = false;
     }
   }
+  document.body.addEventListener("keydown",(event) => {
+    if (event.key === "r" || event.key === "R") {
+      playGame("Rock");
+    } else if (event.key === "p" || event.key === "P") {
+      playGame("Paper");
+    } else if (event.key === "s" || event.key === "S") {
+      playGame("Scissors");
+    } else if (event.key === "a" || event.key === "A") {
+      autoPlay();
+    } else if (event.key === "c" || event.key === "C") {
+      resetScore();
+    }
+  });
